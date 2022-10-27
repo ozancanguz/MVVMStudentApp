@@ -10,7 +10,7 @@
 
     <!--recycler view for displaying all notes-->
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/notesRV"
+        android:id="@+id/StudentRV"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="5dp"
