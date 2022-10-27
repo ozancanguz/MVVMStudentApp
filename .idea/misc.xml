@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/RealAndroiApps/MVVMStudentApp/app/src/main/res/layout/activity_add_edit_student.xml" value="0.20416666666666666" />
         <entry key="..\:/RealAndroiApps/MVVMStudentApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/RealAndroiApps/MVVMStudentApp/app/src/main/res/layout/student_rv_item.xml" value="0.25" />
       </map>
